@@ -64,4 +64,4 @@ async def message(ctx, *args):
         await member.dm_channel.send(content=content, tts=True, delete_after=3)
 
 
-client.run('NzQwOTg4MzA5NzAyMDQ5ODQ0.XyxBIw.3UonLKmh_YTVplIs_NhyHhfI_ow')
+client.run('')
